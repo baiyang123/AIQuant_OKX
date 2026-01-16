@@ -122,3 +122,4 @@ $ & "c:\Users\ybai\Documents\trae_projects\AIQuant_OKX\.venv\Scripts\python.exe"
 ## ⚠️ 免责声明
 
 本项目仅供学习和研究使用，不构成任何投资建议。数字货币交易风险极高，请谨慎使用实盘功能，作者不对任何资金损失负责。
+帮我把这个项目上传git 链接为github.com:baiyang123/AIQuant_OKX.git
